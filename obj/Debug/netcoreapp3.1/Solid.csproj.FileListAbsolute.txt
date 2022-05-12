@@ -1,0 +1,13 @@
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Solid.exe
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Solid.dll
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Solid.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Solid.dll
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\Damian\Desktop\examen bosatta\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache
